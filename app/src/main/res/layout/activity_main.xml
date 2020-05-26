@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/ticTacToe"
         android:layout_width="320dp"
         android:layout_height="239dp"
         android:onClick="gameList"
@@ -20,7 +20,7 @@
         app:layout_constraintVertical_bias="0.087" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/inRow"
         android:layout_width="320dp"
         android:layout_height="239dp"
         android:onClick="gameList"
